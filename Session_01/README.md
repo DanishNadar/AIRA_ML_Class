@@ -66,8 +66,8 @@ Danish Nadar:
 - Taught attendees how to implement and understand regression models hands-on.
 
 ## **Associated Members/Learners**
-- Member 1
-- Member 2
+- Pranav Bonagiri
+- Otioh Konan
 - Member 3
 ---
 
