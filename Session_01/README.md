@@ -1,11 +1,11 @@
 # ML Class 01 - Linear Regression
-### **Made and Presented by: Danish Nadar**
+### **Instructor: Danish Nadar**
 
 This repository contains materials and code from the **Illinois Tech Robotics Machine Learning Class 01**, where Danish Nadar presented foundational concepts of Machine Learning, specifically focusing on **Simple Linear Regression** and **Multiple Linear Regression**. The session included theory, coding demonstrations, and hands-on learning for students.
 
 ## **Goals of the Session**
 1. Introduction to key terminology and concepts regarding AI/ML/DL/DS/DM/CV/NLP.  
-2. Guided instruction to learn theory behind Simple and Multiple Linear Regression
+2. Guided instruction to learn the theory behind Simple and Multiple Linear Regression
 3. Practical implementation of Machine Learning models.
 
 ---
