@@ -68,7 +68,6 @@ Danish Nadar:
 ## **Associated Members/Learners**
 - Pranav Bonagiri
 - Otioh Konan
-- Member 3
 ---
 
 
