@@ -26,3 +26,9 @@ The following libraries were used in this project:
 ---
 
 ## **Exploratory Data Analysis (EDA)**
+1. Exploratory Data Analysis (EDA)
+2. Feature Engineering
+3. Feature Selection
+4. Data Splitting
+5. Model Training
+6. Model Evaluation
