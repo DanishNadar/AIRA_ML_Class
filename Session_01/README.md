@@ -68,6 +68,7 @@ Danish Nadar:
 ## **Associated Members/Learners**
 - Pranav Bonagiri
 - Otioh Konan
+- Alexander Reyes
 ---
 
 
